@@ -11,6 +11,7 @@ export default function Home() {
       <TopBar />
       <Container className={"pb-14 mt-9"}>
         <div className={"flex gap-[60px]"}>
+          <span></span>
           <div className={"w-[250px]"}>
             <Filters />
           </div>
